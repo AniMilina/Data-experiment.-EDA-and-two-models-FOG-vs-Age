@@ -1,3 +1,5 @@
+![alt text]((1).jpg)
+
 # Data-experiment.-EDA-and-two-models-FOG-vs-Age  
 
 ## Exploring FOG Episodes in the Parkinson's Freezing of Gait Prediction Contest on Kaggle  
